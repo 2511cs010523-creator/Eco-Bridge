@@ -1,0 +1,7 @@
+server:
+  servlet:
+    session:
+      cookie:
+        name: ECOBRIDGE_SESSION
+        http-only: true
+        same-site: lax
